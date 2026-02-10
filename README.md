@@ -65,36 +65,7 @@ python -m http.server 8000
 # Install "Live Server" extension and click "Go Live"
 ```
 
-## 🚀 Deployment
 
-### Option 1: GitHub Pages (Free)
-
-1. Go to your repository on GitHub
-2. Navigate to **Settings** → **Pages**
-3. Under **Source**, select `main` branch
-4. Click **Save**
-5. Your site will be live at: `https://yourusername.github.io/Job-Portal/`
-
-### Option 2: Netlify (Free)
-
-1. Go to [Netlify](https://netlify.com) and sign up
-2. Click **Add new site** → **Deploy manually**
-3. Drag and drop your project folder
-4. Your site will be deployed instantly
-
-### Option 3: Vercel (Free)
-
-1. Go to [Vercel](https://vercel.com) and sign up
-2. Click **Add New Project**
-3. Import your GitHub repository
-4. Click **Deploy**
-5. Your site will be live in seconds
-
-## 📱 Responsive Breakpoints
-
-- **Mobile**: < 768px
-- **Tablet**: 768px - 1023px
-- **Desktop**: > 1024px
 
 ## 🔧 Customization
 
