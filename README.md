@@ -147,6 +147,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - **GitHub**: [@YUSH-PSD](https://github.com/YUSH-PSD)
 - **Project Link**: [https://github.com/YUSH-PSD/Job-Portal](https://github.com/YUSH-PSD/Job-Portal)
+- **Project Live Demo**: https://jobportalwebbb.netlify.app/
 
 ---
 
